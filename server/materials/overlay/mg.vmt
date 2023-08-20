@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-    "$basetexture" "overlay\mg"
-    "$translucent" 1
-    "$decal" 1
-}
